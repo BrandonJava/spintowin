@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Maps/TD_GameMap.umap",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/BP_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EditorResources/S_TargetPoint.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/BP_EnemySpawner.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Maps/TD_GameMap_BuiltData.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/AI/BP_Enemy.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/AI/BP_EnemySpawner.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/AI/AI_Enemy.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/UI/WBP_WaveControl.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/StarterContent/Props/SM_Statue.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/Towers/BP_Tower.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/LaserPointer/TranslucentLaserPointerMaterialInst.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/Towers/BP_TowerProjectile.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/LaserPointer/LaserPointerMaterialInst.uasset",
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/ActorDistanceStruct.uasset",
+				"C:/Users/Betchison/Desktop/TowerDefenseGame/Content/TopDown/Blueprints/AI/BP_AI.uasset"
+			]
+		}
+	]
+}
